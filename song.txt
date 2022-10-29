@@ -96,3 +96,4 @@ Blows your mind drastically, fantastically
 Blows your mind drastically, fantastically
 
 feature commit #1
+feature commit #2
